@@ -146,7 +146,7 @@ Connect dashboard to live transaction streams.
 
 👤 Author
 
-[Your Name]
+E ROHITH
 
 B.Tech CSE (Specialization: Data Science)
 
